@@ -21,23 +21,23 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.owner = ['6282173242194']
+global.premium = ['6282173242194']
+global.ownernomer = '6282173242194'
+global.ownername = '🦄Lord risky'
+global.botname = 'Risky Bot MD '
+global.footer = 'Iky Bot Inc.'
+global.ig = 'https://github.com/riskybotajadeh'
+global.region = 'Indonesia, Sumatra Barat, LA'
+global.sc = 'https://github.com/riskybotajadeh/xeon'
+global.myweb = 'https://youtube.com/channel/UC_dYeKNRug2fKuS9NX58h3w'
+global.packname = 'Lord risky Bot'
+global.author = '🦄XRYMODS'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done ya kids✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
